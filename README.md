@@ -1,1 +1,3 @@
-PyDataLondon 2018 tutorial repo
+PyData tutorial repository.
+
+Learn how to make the most of NumPy!
